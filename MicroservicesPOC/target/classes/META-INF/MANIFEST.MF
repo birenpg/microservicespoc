@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MicroservicesPOC
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: e3027607
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://spring.io/projects/spring-boot/Microservic
+ esPOC
+Created-By: Maven Integration for Eclipse
+

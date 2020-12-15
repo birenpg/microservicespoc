@@ -1,0 +1,10 @@
+2020-11-30 12:49:07 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM USER USER 
+INSERT[*] INTO USER VALUES(1, 'James', 'Anderson')"; SQL statement:
+SELECT * FROM USER USER 
+INSERT INTO user VALUES(1, 'James', 'Anderson') [42000-200]
+2020-11-30 12:49:10 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM USER USER 
+INSERT[*] INTO USER VALUES(1, 'James', 'Anderson')"; SQL statement:
+SELECT * FROM USER USER 
+INSERT INTO user VALUES(1, 'James', 'Anderson') [42000-200]
